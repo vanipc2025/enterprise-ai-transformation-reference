@@ -1,0 +1,9 @@
+# Architect Toolkit
+
+## Purpose
+
+Reusable consulting questions, reviews and decision templates.
+
+## Consultant outcome
+
+Explain it simply, analyze it deeply, identify choices and trade-offs, and apply it to an unfamiliar enterprise.
